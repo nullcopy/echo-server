@@ -4,3 +4,7 @@ A simple TCP echo server. This server is based on the [tokio](https://github.com
 ## Usage
 Start the server with `echo-server`.
 Test the server using `telnet localhost 12345`. The server should echo your messages on this telnet session.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
